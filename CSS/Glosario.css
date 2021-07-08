@@ -9,7 +9,7 @@
 
 
 section{
-    width: 1000px;
+    max-width: 1000px;
     margin: auto;
 }
 .titulo_1{
@@ -72,15 +72,15 @@ section{
         }
 
 .colordeetiquetas div {
-  width: 300px;
+  max-width: 300px;
     height: auto;
     
 
 }
         
 .img_ejemplo{
-     width: 400x;
-    height: 380px;
+     max-width: 400px;
+    max-width: 380px;
     border: 5px dotted #00CED1;
     border-radius: 30px;
     margin-top: 20px;
@@ -104,11 +104,11 @@ margin-left: -70%;
 
 
 .logos{
-width: 100px;
+max-width: 100px;
     
     }
 .logoss{
-width: 100px;
+max-width: 100px;
     margin-left: 90%;
     }
 
@@ -119,3 +119,12 @@ color: #00CED1;
 p {
 color: white;
     }
+
+
+
+
+
+
+
+
+
