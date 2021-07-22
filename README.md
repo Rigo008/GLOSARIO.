@@ -4,7 +4,7 @@
 
 # Portafolio III Periodo 2021 🍎
 
-<img width="100%" src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fconayudadelaweb.com%2Fblog%2Fwp-content%2Fuploads%2F2020%2F11%2FGAMER-PORTADA-CADLW.jpg&imgrefurl=http%3A%2F%2Fconayudadelaweb.com%2Fblog%2Fcomo-armar-una-habitacion-gamer-para-jugar-sin-parar%2F&tbnid=avTcqXyBYKqrdM&vet=12ahUKEwjqzOWEuPfxAhXQ6FMKHYnyCoEQMygIegUIARC-AQ..i&docid=33TP5fsfsZpbFM&w=1024&h=768&q=cuartos%20gamer&ved=2ahUKEwjqzOWEuPfxAhXQ6FMKHYnyCoEQMygIegUIARC-AQ">
+<img src="https://i.pinimg.com/474x/43/f7/8a/43f78a2394f21ea3002c81905c2a64b1.jpg">
 
 ## Información
 
