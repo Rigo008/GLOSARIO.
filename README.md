@@ -25,4 +25,8 @@
 ##### Contenido CSS ------------------------------10
 
 
+##objetivos 
 
+-Lograra aprender mas sobre los temas.
+-Saber como realiozar todos los codigos para tener un mejor aprendisaje. 
+-Saber como utilizar la informatica en html y css para poder realizar mejores trabajhos.
