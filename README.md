@@ -31,4 +31,16 @@
 
 -Saber como realiozar todos los codigos para tener un mejor aprendisaje. 
 
--Saber como utilizar la informatica en html y css para poder realizar mejores trabajhos.
+-Saber como utilizar la informatica en html y css para poder realizar mejores trabajos.
+
+
+## objetivos futuros 
+
+-Que se me facilite mas todo en la programacion.
+
+-Saber mas de informatica.
+
+-Quisiera saber como utilizar mas programas.
+
+
+
